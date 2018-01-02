@@ -2,22 +2,20 @@ html {
   font-family: Verdana;
   background-color: Black;
   text-align: center;
+  color: White;
 }
 
 h1 {
   font-weight: normal;
   font-size: 50px;
-  color: white;
 }
 
 .download {
   color: Aquamarine;
   font-size: 16px;
-  text-decoration: underline;
 }
 
 h2 {
-  color: White;
   font-weight: 300;
   font-size: 42px;
 }
